@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A secret project**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NuxtJS**
 
 - 📫 How to reach me **contact@killian-colla.com**
 
